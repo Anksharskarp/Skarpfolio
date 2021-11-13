@@ -2,6 +2,11 @@
 
 A centralized repository for all of my mini software projects that aren't large enough to have a separate repository for their own.
 
+## Projects:
+
+### Raindrops
+- A simple waterdrop catching game written using the [LibGDX](https://libgdx.com/) multiplatform development framework.
+
 ## FAQ:
 
 ### What is the purpose of this central repository?
