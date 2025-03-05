@@ -5,7 +5,7 @@ A centralized repository for all of my mini software projects that aren't large 
 ## Projects:
 
 ### Raindrops
-- A simple waterdrop catching game written using the [LibGDX](https://libgdx.com/) multiplatform development framework.
+- A simple waterdrop catching game written using the LibGDX multiplatform development framework.
 
 ## FAQ:
 
